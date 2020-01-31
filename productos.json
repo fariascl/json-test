@@ -4,5 +4,11 @@
       "title": "Pan",
       "cantidad": "1",
       "precio": "950"
+   },
+   {
+      "id": "96",
+      "title": "Otra",
+      "cantidad": "1",
+      "precio": "-1"
    }
 ]
